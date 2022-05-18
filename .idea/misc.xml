@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Weather/app/src/main/res/layout/activity_add_country.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Weather/app/src/main/res/layout/activity_country.xml" value="0.22509057971014493" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Weather/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Weather/app/src/main/res/layout/list_item.xml" value="0.22509057971014493" />
       </map>
     </option>
   </component>
